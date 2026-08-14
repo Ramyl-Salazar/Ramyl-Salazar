@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Ramyl Monce Salazar - Software Engineering, Android, and Computer Vision" width="100%" />
+  <img src="./header.svg" alt="Ramyl Monce Salazar - Software Engineering, Android, and Computer Vision" width="100%" />
 </p>
 
 <p align="center">
